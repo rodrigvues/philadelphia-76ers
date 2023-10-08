@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O philadelphia-76ers é inspirado no projeto que fiz em umas das jornadas da Dev em Dobro ( que você pode ver <a href="github.com/rodrigvues/one-piece-deb">aqui no meu perfil</a> ) , onde produzi um display dos 5 principais personagens do anime One Piece. Nesse projeto decidi fazer um display dos jogadores do meu time favorito de basquete, o Philadelphia 76ers!
+O philadelphia-76ers é inspirado no projeto que fiz em umas das jornadas da Dev em Dobro ( que você pode ver <a href="https://github.com/rodrigvues/one-piece-deb">aqui no meu perfil</a> ) , onde produzi um display dos 5 principais personagens do anime One Piece. Nesse projeto decidi fazer um display dos jogadores do meu time favorito de basquete, o Philadelphia 76ers!
 
 - [Acesse o projeto finalizado, online](https://rodrigvues.github.io/philadelphia-76ers)
 
